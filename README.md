@@ -15,3 +15,11 @@
 ##### 前端：Flask、Echarts、HTML、CSS、JavaScript
 ##### hadoop及其组件：HDFS和MR、hive、sqoop、flume
 
+# 技术实现：
+##### 使用Python爬取网站json数据，保存到本地
+##### 用MR清洗数据保存到hdfs
+##### flume收集监控日志
+##### 加载hdfs上的数据到hive表中
+##### 使用sqoop导出数据到mysql
+##### 使用echars生成图表
+
